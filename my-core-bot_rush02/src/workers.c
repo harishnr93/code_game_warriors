@@ -3,17 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   workers.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ybutkov <ybutkov@student.42.fr>            +#+  +:+       +#+        */
+/*   By: hnataraj <hnataraj@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/19 00:20:39 by ybutkov           #+#    #+#             */
-/*   Updated: 2025/05/19 15:30:45 by ybutkov          ###   ########.fr       */
+/*   Created: 2025/05/19 00:20:39 by hnataraj          #+#    #+#             */
+/*   Updated: 2025/05/19 15:30:45 by hnataraj         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../include/my_core_bot.h"
-
-
-
 
 void	worker_combine(t_obj *worker)
 {

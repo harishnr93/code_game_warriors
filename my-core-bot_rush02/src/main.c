@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ybutkov <ybutkov@student.42.fr>            +#+  +:+       +#+        */
+/*   By: hnataraj <hnataraj@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/05/18 23:56:52 by ybutkov           #+#    #+#             */
-/*   Updated: 2025/05/19 15:30:52 by ybutkov          ###   ########.fr       */
+/*   Created: 2025/05/18 23:56:52 by hnataraj          #+#    #+#             */
+/*   Updated: 2025/05/19 15:30:52 by hnataraj         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,6 @@
 void	ft_init_func(void *data);
 void	ft_user_loop(void *data);
 void	worker_combine(t_obj *worker);
-
 
 
 int	main(int argc, char **argv)
